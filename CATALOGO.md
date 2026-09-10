@@ -23,7 +23,7 @@ Editora: **Encorajar Editora**
 | 16 | O Poder da Ambiência | [ebook.epub](books/o-poder-da-ambiencia/ebook.epub) | [cover.jpg](books/o-poder-da-ambiencia/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFWTJL9) |
 | 17 | Olhos Abertos | [ebook.epub](books/olhos-abertos/ebook.epub) | [cover.jpg](books/olhos-abertos/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFPBMN3) |
 | 18 | Os Quatro Degraus do Êxito | [ebook.epub](books/os-quatro-degraus-do-exito/ebook.epub) | [cover.jpg](books/os-quatro-degraus-do-exito/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHGM924H) |
-| 19 | Pare de Lutar Contra Você Mesmo | [ebook.epub](books/pare-de-lutar-contra-voce-mesmo/ebook.epub) | [cover.jpg](books/pare-de-lutar-contra-voce-mesmo/cover.jpg) | Link público não encontrado no site |
+| 19 | Pare de Lutar Contra Você Mesmo | [ebook.epub](books/pare-de-lutar-contra-voce-mesmo/ebook.epub) | [cover.jpg](books/pare-de-lutar-contra-voce-mesmo/cover.jpg) | Em revisão no KDP — link público pendente |
 | 20 | Resgate Seu Tempo | [ebook.epub](books/resgate-seu-tempo/ebook.epub) | [cover.jpg](books/resgate-seu-tempo/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFH3HVJ) |
 | 21 | Tetelestai: Está Consumado | [ebook.epub](books/tetelestai-esta-consumado/ebook.epub) | [cover.jpg](books/tetelestai-esta-consumado/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFN1KWV) |
 
