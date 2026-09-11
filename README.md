@@ -13,7 +13,7 @@ Repositório organizado dos eBooks e capas preparados para publicação no Amazo
 
 ## Livros incluídos
 
-São 25 livros com EPUB e capa correspondente. As versões escolhidas são as mais recentes/preparadas para o KDP; variantes anteriores foram mantidas no arquivo para não perder histórico.
+São 26 livros com EPUB e capa correspondente. As versões escolhidas são as mais recentes/preparadas para o KDP; variantes anteriores foram mantidas no arquivo para não perder histórico.
 
 ## Uso
 

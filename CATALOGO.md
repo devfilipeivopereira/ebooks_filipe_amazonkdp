@@ -18,18 +18,19 @@ Editora: **Encorajar Editora**
 | 11 | Empreenda com Sabedoria | [ebook.epub](books/empreenda-com-sabedoria/ebook.epub) | [cover.jpg](books/empreenda-com-sabedoria/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFF18YV) |
 | 12 | Enviados a Seu Favor | [ebook.epub](books/enviados-a-seu-favor/ebook.epub) | [cover.jpg](books/enviados-a-seu-favor/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0GZJ5FT85) |
 | 13 | Face a Face com Jesus | [ebook.epub](books/face-a-face-com-jesus/ebook.epub) | [cover.jpg](books/face-a-face-com-jesus/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJGYJWMM) |
-| 14 | Hábitos que Constroem Destinos | [ebook.epub](books/habitos-que-constroem-destinos/ebook.epub) | [cover.jpg](books/habitos-que-constroem-destinos/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJDMJFG1) |
-| 15 | Libere Sua Coragem | [ebook.epub](books/libere-sua-coragem/ebook.epub) | [cover.jpg](books/libere-sua-coragem/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0GZ5K3DB8) |
-| 16 | Menos é Mais | [ebook.epub](books/menos-e-mais/ebook.epub) | [cover.jpg](books/menos-e-mais/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0H4BGMBBD) |
-| 17 | Não Deixe Ninguém Roubar Sua Paz | [ebook.epub](books/nao-deixe-ninguem-roubar-sua-paz/ebook.epub) | [cover.jpg](books/nao-deixe-ninguem-roubar-sua-paz/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHGGSCTF) |
-| 18 | O Código Bíblico do Dinheiro | [ebook.epub](books/o-codigo-biblico-do-dinheiro/ebook.epub) | [cover.jpg](books/o-codigo-biblico-do-dinheiro/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJBD1M97) |
-| 19 | O Milagre de Agradecer | [ebook.epub](books/o-milagre-de-agradecer/ebook.epub) | [cover.jpg](books/o-milagre-de-agradecer/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFT6MK7) |
-| 20 | O Poder da Ambiência | [ebook.epub](books/o-poder-da-ambiencia/ebook.epub) | [cover.jpg](books/o-poder-da-ambiencia/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFWTJL9) |
-| 21 | Olhos Abertos | [ebook.epub](books/olhos-abertos/ebook.epub) | [cover.jpg](books/olhos-abertos/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFPBMN3) |
-| 22 | Os Quatro Degraus do Êxito | [ebook.epub](books/os-quatro-degraus-do-exito/ebook.epub) | [cover.jpg](books/os-quatro-degraus-do-exito/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHGM924H) |
-| 23 | Pare de Lutar Contra Você Mesmo | [ebook.epub](books/pare-de-lutar-contra-voce-mesmo/ebook.epub) | [cover.jpg](books/pare-de-lutar-contra-voce-mesmo/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJDR7HLV) |
-| 24 | Resgate Seu Tempo | [ebook.epub](books/resgate-seu-tempo/ebook.epub) | [cover.jpg](books/resgate-seu-tempo/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFH3HVJ) |
-| 25 | Tetelestai: Está Consumado | [ebook.epub](books/tetelestai-esta-consumado/ebook.epub) | [cover.jpg](books/tetelestai-esta-consumado/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFN1KWV) |
+| 14 | Gestão com Propósito | [ebook.epub](books/gestao-com-proposito/ebook.epub) | [cover.jpg](books/gestao-com-proposito/cover.jpg) | Em revisão no KDP |
+| 15 | Hábitos que Constroem Destinos | [ebook.epub](books/habitos-que-constroem-destinos/ebook.epub) | [cover.jpg](books/habitos-que-constroem-destinos/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJDMJFG1) |
+| 16 | Libere Sua Coragem | [ebook.epub](books/libere-sua-coragem/ebook.epub) | [cover.jpg](books/libere-sua-coragem/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0GZ5K3DB8) |
+| 17 | Menos é Mais | [ebook.epub](books/menos-e-mais/ebook.epub) | [cover.jpg](books/menos-e-mais/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0H4BGMBBD) |
+| 18 | Não Deixe Ninguém Roubar Sua Paz | [ebook.epub](books/nao-deixe-ninguem-roubar-sua-paz/ebook.epub) | [cover.jpg](books/nao-deixe-ninguem-roubar-sua-paz/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHGGSCTF) |
+| 19 | O Código Bíblico do Dinheiro | [ebook.epub](books/o-codigo-biblico-do-dinheiro/ebook.epub) | [cover.jpg](books/o-codigo-biblico-do-dinheiro/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJBD1M97) |
+| 20 | O Milagre de Agradecer | [ebook.epub](books/o-milagre-de-agradecer/ebook.epub) | [cover.jpg](books/o-milagre-de-agradecer/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFT6MK7) |
+| 21 | O Poder da Ambiência | [ebook.epub](books/o-poder-da-ambiencia/ebook.epub) | [cover.jpg](books/o-poder-da-ambiencia/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFWTJL9) |
+| 22 | Olhos Abertos | [ebook.epub](books/olhos-abertos/ebook.epub) | [cover.jpg](books/olhos-abertos/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFPBMN3) |
+| 23 | Os Quatro Degraus do Êxito | [ebook.epub](books/os-quatro-degraus-do-exito/ebook.epub) | [cover.jpg](books/os-quatro-degraus-do-exito/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHGM924H) |
+| 24 | Pare de Lutar Contra Você Mesmo | [ebook.epub](books/pare-de-lutar-contra-voce-mesmo/ebook.epub) | [cover.jpg](books/pare-de-lutar-contra-voce-mesmo/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJDR7HLV) |
+| 25 | Resgate Seu Tempo | [ebook.epub](books/resgate-seu-tempo/ebook.epub) | [cover.jpg](books/resgate-seu-tempo/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFH3HVJ) |
+| 26 | Tetelestai: Está Consumado | [ebook.epub](books/tetelestai-esta-consumado/ebook.epub) | [cover.jpg](books/tetelestai-esta-consumado/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFN1KWV) |
 
 Os links da coluna **Amazon** apontam para as páginas de venda confirmadas no painel do KDP. Quando o título ainda não possui uma página pública, o status é indicado no lugar do link.
 
