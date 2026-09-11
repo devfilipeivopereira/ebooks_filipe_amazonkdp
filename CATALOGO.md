@@ -10,7 +10,7 @@ Editora: **Encorajar Editora**
 | 3 | A Mente que Vence | [ebook.epub](books/a-mente-que-vence/ebook.epub) | [cover.jpg](books/a-mente-que-vence/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HH8FPN81) |
 | 4 | A Toalha e o Trono | [ebook.epub](books/a-toalha-e-o-trono/ebook.epub) | [cover.jpg](books/a-toalha-e-o-trono/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HH8QZR3Z) |
 | 5 | Além dos Seus Limites | [ebook.epub](books/alem-dos-seus-limites/ebook.epub) | [cover.jpg](books/alem-dos-seus-limites/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJD21464) |
-| 6 | Como Saber se Sou Salvo? | [ebook.epub](books/como-saber-se-sou-salvo/ebook.epub) | [cover.jpg](books/como-saber-se-sou-salvo/cover.jpg) | Em revisão no KDP |
+| 6 | Como Saber se Sou Salvo? | [ebook.epub](books/como-saber-se-sou-salvo/ebook.epub) | [cover.jpg](books/como-saber-se-sou-salvo/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJJGYZ2D) |
 | 7 | Conquiste a Vida de Oração que Você Sempre Quis | [ebook.epub](books/conquiste-a-vida-de-oracao/ebook.epub) | [cover.jpg](books/conquiste-a-vida-de-oracao/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0H22RXY6Y) |
 | 8 | Cure os Enfermos | [ebook.epub](books/cure-os-enfermos/ebook.epub) | [cover.jpg](books/cure-os-enfermos/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0GXB1BMZF) |
 | 9 | Decisão Certa, na Hora Certa | [ebook.epub](books/decisao-certa-na-hora-certa/ebook.epub) | [cover.jpg](books/decisao-certa-na-hora-certa/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HH8F18P6) |
@@ -18,7 +18,7 @@ Editora: **Encorajar Editora**
 | 11 | Empreenda com Sabedoria | [ebook.epub](books/empreenda-com-sabedoria/ebook.epub) | [cover.jpg](books/empreenda-com-sabedoria/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HHFF18YV) |
 | 12 | Enviados a Seu Favor | [ebook.epub](books/enviados-a-seu-favor/ebook.epub) | [cover.jpg](books/enviados-a-seu-favor/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0GZJ5FT85) |
 | 13 | Face a Face com Jesus | [ebook.epub](books/face-a-face-com-jesus/ebook.epub) | [cover.jpg](books/face-a-face-com-jesus/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJGYJWMM) |
-| 14 | Gestão com Propósito | [ebook.epub](books/gestao-com-proposito/ebook.epub) | [cover.jpg](books/gestao-com-proposito/cover.jpg) | Em revisão no KDP |
+| 14 | Gestão com Propósito | [ebook.epub](books/gestao-com-proposito/ebook.epub) | [cover.jpg](books/gestao-com-proposito/cover.jpg) | [Amazon — em publicação](https://www.amazon.com.br/dp/B0HJJL1NHC) |
 | 15 | Hábitos que Constroem Destinos | [ebook.epub](books/habitos-que-constroem-destinos/ebook.epub) | [cover.jpg](books/habitos-que-constroem-destinos/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0HJDMJFG1) |
 | 16 | Libere Sua Coragem | [ebook.epub](books/libere-sua-coragem/ebook.epub) | [cover.jpg](books/libere-sua-coragem/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0GZ5K3DB8) |
 | 17 | Menos é Mais | [ebook.epub](books/menos-e-mais/ebook.epub) | [cover.jpg](books/menos-e-mais/cover.jpg) | [Comprar](https://www.amazon.com.br/dp/B0H4BGMBBD) |
